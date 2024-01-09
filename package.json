@@ -16,9 +16,5 @@
   "bugs": {
     "url": "https://github.com/Ki1chi/personal-website/issues"
   },
-  "homepage": "https://github.com/Ki1chi/personal-website#readme",
-  "devDependencies": {
-    "webpack": "^5.89.0",
-    "webpack-cli": "^5.1.4"
-  }
+  "homepage": "https://github.com/Ki1chi/personal-website#readme"
 }
